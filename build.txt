@@ -1,0 +1,4 @@
+displayName = Legacy/Scrapped Calamity Music Boxes
+author = Cataclysm
+version = 0.2
+modReferences = CalamityMod

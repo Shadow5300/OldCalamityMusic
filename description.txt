@@ -1,0 +1,9 @@
+This mod adds most of the scrapped/old music from the Calamity mod with the exception of Yharon and Providence due to Nintendo copyright being brutal. Also, I am TERRIBLE at spriting.
+
+v0.2:
+
+*Oh hey. THERE'S the music boxes. They like to move a pixel to the right. Dunno how to fix that right now. Have fun with the ugly placeholder sprites.
+
+v0.1:
+
+*Uploaded with no items since it was too big.

@@ -1,0 +1,3 @@
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\OldCalamityMusic\obj\Debug\net45\OldCalamityMusic.csprojAssemblyReference.cache
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\OldCalamityMusic\obj\Debug\net45\OldCalamityMusic.AssemblyInfoInputs.cache
+C:\Users\matth\Documents\My Games\Terraria\ModLoader\Mod Sources\OldCalamityMusic\obj\Debug\net45\OldCalamityMusic.AssemblyInfo.cs
